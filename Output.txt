@@ -1,0 +1,10 @@
+Sum of 5 and 5 is 10
+Subtraction of 5 and 5 is 0
+Multiplication of 5 and 5 is 25
+Division of 5 and 5 is 1.00
+------------------------
+Sum of 9 and 8 is 17
+Subtraction of 9 and 8 is 1
+Multiplication of 9 and 8 is 72
+Division of 9 and 8 is 1.13
+------------------------
